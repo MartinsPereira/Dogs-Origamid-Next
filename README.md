@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
 
-## Getting Started
+   <h1 align="center"> Dogs Next </h1>
+ </p>
 
-First, run the development server:
+<!-- ABOUT THE PROJECT -->
+
+### 🚀 Tecnologias
+
+- [VS Code][vc]
+- [TypeScriot][typescript]
+- [Next][Nextjs]
+- [React][react]
+<!-- -   [CORS][cors]
+- [Expo][expo]
+- [Express][express]
+- [Insomnia][insomnia]
+- [KNEX.JS][knexjs]
+- [NodeJS][nodejs]
+- [Nodemon][nodemon]
+- [npm][npm]
+- [Prettier][prettier]
+- [React][react]
+- [React Native][reactnative]
+- [SQLite][sqlite]
+- [Yarn][yarn] -->
+
+## 📷 Preview
+
+##### 💻 frontend:
+
+<p align="center"> 
+ 
+  <img alt="dogs-next" src="https://github.com/MartinsPereira/NLW-IA/assets/58631294/c0d57064-e48b-4a3a-9890-8b4a151ec537" width="100%">
+</p>
+
+## 📦 Instalação
+
+Para clonar e executar está aplicação, você precisará do [Git](https://git-scm.com), [NodeJS v18.17.1][nodejs] ou superior + [npm v9.17.1][npm] ou superior e o [PNPm 8.7.5][pnpm] instalado no seu computador. No seu terminal rode:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clonando o repositório
+$ git clone https://github.com/MartinsPereira/Dogs-Origamid-Next
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Frontend
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Ir até o repositório
+$ cd /Dogs-Origamid-Next
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Instalando as dependências
+$ npm i
 
-## Learn More
+# Rodar Web
+$ npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+<!-- CONTACT -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📫 Contato
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+by [**Martins Pereira**](https://www.linkedin.com/in/martins-pereira-528134199/) 🚀
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[PNPm]: https://pnpm.io/pt/
+[npm]: https://www.npmjs.com/
+[Nextjs]: https://nextjs.org/
+[ViteJS]: https://vitejs.dev/
+[shadcn/ui]: https://ui.shadcn.com/
+[Lucide]: https://lucide.dev/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[html]: https://www.w3schools.com/html/
+[express]: https://expressjs.com/
+[nodemon]: https://www.postgresql.org
+[expo]: https://expo.io
+[react]: https://react.dev/
+[reactnative]: https://reactnative.dev
+[insomnia]: https://insomnia.rest
+[sqlite]: https://www.sqlite.org
+[knexjs]: http://knexjs.org
+[cors]: https://www.npmjs.com/package/cors
+[prettier]: https://prettier.io
+[eslint]: https://eslint.org
+[typescript]: https://www.typescriptlang.org/
